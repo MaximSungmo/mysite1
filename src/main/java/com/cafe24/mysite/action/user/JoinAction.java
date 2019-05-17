@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.cafe24.mysite.dao.UserDao;
-import com.cafe24.mysite.listener.UserVo;
+import com.cafe24.mysite.vo.UserVo;
 import com.cafe24.web.WebUtil;
 import com.cafe24.web.mvc.Action;
 

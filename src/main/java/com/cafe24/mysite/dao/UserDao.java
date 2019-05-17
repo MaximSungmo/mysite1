@@ -8,8 +8,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.cafe24.mysite.listener.UserVo;
 import com.cafe24.mysite.vo.GuestbookVo;
+import com.cafe24.mysite.vo.UserVo;
 
 
 public class UserDao {
