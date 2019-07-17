@@ -3,7 +3,7 @@
 
 <%@page import="com.cafe24.mysite.vo.UserVo"%>
 <%
-	UserVo userVo = (UserVo)request.getAttribute("userVo");
+UserVo userVo = (UserVo)request.getAttribute("userVo");
 %>
 <!DOCTYPE html>
 <html>
